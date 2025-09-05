@@ -8,8 +8,7 @@ This project implements a hybrid log classification system that categorizes syst
 4. Hybrid Approach: Combines regex, BERT, and LLM to ensure high accuracy and coverage.
 5. Clustering for Pattern Discovery: Uses DBSCAN on embeddings to identify frequently occurring log patterns.
 6. CSV Integration: Accepts log data in CSV format and outputs classified results.
-![Alt text](<img width="1024" height="1536" alt="fa4b30b8-7b5b-4013-8a10-1272e4df0e7a" src="https://github.com/user-attachments/assets/a002d858-3fb6-46d8-a414-3e3ca5bca571" />
-)
+![Alt text](fa4b30b8-7b5b-4013-8a10-1272e4df0e7a.png)
 
 # Project Structure
 ├── dataset/
